@@ -1,0 +1,4 @@
+requests
+fake-useragent
+aiohttp
+python-dotenv
